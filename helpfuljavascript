@@ -1,4 +1,4 @@
-*Helpful Programs for Javascript*
+*Helpful Javascript References*
 
 All credits to: Martin Heller
 Source: (https://www.infoworld.com/article/3195951/application-development/review-the-10-best-javascript-editors.html)
@@ -36,13 +36,68 @@ Source: (https://www.infoworld.com/article/3195951/application-development/revie
 10.( Vim 8.0 )
 https://www.vim.org/
 
+******************************************************************************************
+
+
 Creator of Javascript : JavaScript was created by Brendan Eich in 1995 during his time at Netscape Communications. 
 It was inspired by Java, Scheme and Self. Netscape, for a time, made the best browser in the world and enjoyed market dominance.
 
 *JavaScript and HTML DOM Reference*
 source: https://www.w3schools.com/jsref/default.asp
 
+******************************************************************************************
 Everything JS we need to know:
 https://www.w3schools.com/js/js_examples.asp
 
-Disclaimer: This is just for learning purposes and my own personal directory to help nAVIGATE information needed to learn my ways around Javascript.
+(JSON introduction)
+https://www.json.org/
+
+(AJAX introduction)
+https://www.w3schools.com/xml/ajax_intro.asp
+
+******************************************************************************************
+******STUFF NEEDED FOR JOB SECURITY for (Full Stack Developer - Javascript Engineer)******
+                              """"""""""( IMPORTANT )""""""""""
+*(React JS)
+https://reactjs.org/
+*(Angular JS)
+https://angular.io/
+*(Vue JS)
+https://vuejs.org/
+
+******EXAMPLE OF JOB DUTIES WE SHOULD BE FAMILIAR WITH************************************
+
+Job Duties
+• Act as a full stack developer across PetSmart’s various web and mobile solutions
+• As a JavaScript engineer, you will help build up PetSmart’s competency using React (JS and Native) across our mobile and web properties.
+• Work with product team to turn high fidelity design into an interactive experience.
+• Partner with native mobile engineers on integrating features into the app.
+• Design and build business and data layer components.
+• Ensure the best possible performance, quality, and responsiveness of applications.
+• Adhere to coding standards and develop well-structured, maintainable and easy to understand code.
+• Conduct code peer reviews to ensure high code quality and design patterns are being used.
+• Facilitate or participate in the user story grooming and estimation sessions to refine product backlog.
+• Lead a team of .Net Developers to develop custom web applications and services.
+• Utilize Team Foundation Server (TFS) to manage source code, agile process work items, and sprints.
+• Adhere to Agile SDLC methodology and configuration management guidelines and processes.
+
+Desired Skills
+• Bachelor's Degree in information technology, computer science, information management, or related field.
+• 5-8 years of experience which includes at least five (5) years of development experience using .NET technologies.
+• Strong knowledge of .NET framework.
+• Proficient in coding using C#.
+• Strong experience with various JS libraries and frameworks (React, Angular, Vue, etc.)
+• Expert understanding of JavaScript, HTML, CSS, RESTful APIs, HTTP, networking concepts.
+• Experience with Angular /AngularJS.
+• Experience creating/writing RESTful web services using Web API.
+• Experience writing SQL for Microsoft SQL Server.
+• Strong understanding of object-oriented programming.
+• Familiar with Dependency Injection pattern.
+• Experience with HTML/CSS, JavaScript, TypeScript, and JQuery a plus.
+• Experience working in scrum development environment.
+Education
+• Bachelor's Degree in Computer Science or related field.
+******************************************************************************************
+
+*Disclaimer: This is just for learning purposes and my own personal directory 
+to help navigate information needed to learn my ways around Javascript.
